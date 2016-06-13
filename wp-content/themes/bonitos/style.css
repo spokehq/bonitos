@@ -712,7 +712,7 @@ h5 {font-size:40px; text-align: center;}
 
 #slide5 .texture-with-border {top:90px; position:relative;}
 #slide6 h1 {margin:20px 0 50px;}
-#mti_wfs_colophon {z-index:3000; position:absolute !important; top:5300px; left:50%; margin-left:316px;}
+#mti_wfs_colophon {z-index:3000; position:absolute !important; top:5300px; left:50%; margin-left:316px;display:none !important;}
 #mti_wfs_colophon img {width:76px;}
 
 ::selection, ::-webkit-selection, ::-moz-selection {
